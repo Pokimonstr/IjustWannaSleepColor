@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(232, 182, 134);
+    margin-left: 10px;
+}
+
+header {
+    height: 150px;
+    background-color: rgb(168, 2, 32);
+
+}
+
+nav {
+    height: 100px;
+    background-color: #1f492a;
+
+}
+
+.aside1 {
+      text-align: center;
+    margin-top: 20px;
+    float: left;
+    width: 300px;
+    height: 100px;
+    background-color: #0b2e00;
+    
+   
+}
+
+.aside2 {
+    text-align: center;
+    float: left;
+    height: 150px;
+    width: 300px;
+    background-color: #0b2e00;
+    margin-top: 150px;
+    margin-left: -300px;
+}
+
+
+.main-content {
+    margin-top: 20px;
+    margin-left: 330px;
+      float: center;
+      width: 51%;
+      background-color: #032d0c;
+      padding: 20px;
+      border-radius: 5px;
+      min-height: 300px;
+
+    }
+
+
+ .aside {
+      background-color: #ff002684;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      text-align: center;
+    }
+
+
+
+
+@font-face {
+    src: url(PixelifySans-VariableFont_wght.ttf);
+    font-family: PixelifySans-VariableFont_wght;
+}
+
+h1 {
+    padding-left: 30px;
+    text-shadow: 3px 3px 2px rgb(0, 0, 0);
+    color: rgb(255, 228, 228);
+    font-family: PixelifySans-VariableFont_wght;
+
+}
+ .sidebar-right {
+
+    text-align: center;
+    float: right;
+    height: 150px;
+    background-color: #0b2e00;
+    margin-top: -199px;
+    margin-left: -300px;
+    min-width:200px
+
+    }
+
+
+ footer{
+      background-color: #a60000;
+      color: white;
+      text-align: left;
+      height: 100px;
+    margin-top: 420px;
+      border-radius: 5px;
+    }
+
